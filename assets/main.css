@@ -1,0 +1,42 @@
+body {
+    background: #0c131c;
+    color: rgb(200,200,200);
+    padding: 3%;
+}
+.center {
+    text-align: center;
+}
+.button {
+    background: #0c131c;
+    border-radius: 15px;
+    color: rgb(200,200,200);
+    padding: 10px;
+}
+.button:hover {
+    background: #0c131c;
+    border-radius: 15px;
+    color: rgb(100,100,100);
+}
+.updates {
+    background: #141C29;
+    border-radius: 5px;
+    padding: 20px;
+    color: rgb(200,200,200);
+}
+.date {
+    color: rgb(150,150,150);
+    font-size: smaller;
+    font-weight: bold;
+}
+.content {
+    color: rgb(150,150,150);
+    font-size: small;
+}
+.tiny {
+    font-size: 11px;;
+}
+.ad {
+    width: 468px;
+    height: 60px;
+    background: #141C29;
+}
